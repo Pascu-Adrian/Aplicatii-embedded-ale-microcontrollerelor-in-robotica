@@ -1,0 +1,4 @@
+Adauga pas:Adauga pasul la lista de pasi:ADP:AdaugaPas
+Sterge pas:Sterge pasul de la indexul respectiv:STP:StergePas
+Muta pas in sus:Muta pasul de la indexul respectiv mai sus:MPS:MutaPasSus
+Muta pas in jos:Muta pasul de la indexul respectiv mai jos:MPJ:MutaPasJos

@@ -1,0 +1,11 @@
+3:X Y Z:Adauga pas:Adauga pasul la lista de pasi:ADP:ADP
+1:INDEX:Sterge pas:Sterge pasul de la indexul respectiv:STP:STP
+1:INDEX:Muta pas in sus:Muta pasul de la indexul respectiv mai sus:MPS:MPS
+1:INDEX:Muta pas in jos:Muta pasul de la indexul respectiv mai jos:MPJ:MPJ
+0:null:Lista de comenzi:Afiseaza lista de comenzi:CMD:CMD
+0:null:asdasdsa:adsadadsa:TO0:TO0
+0:null:asadas:asdasda:RST:RST
+0:null:DSADSEA:ASDASD:IMP:IMP
+0:null:ERWFSFDSF:sFEWFSD:EXP:EXP
+12:X1 Y1 Z1 X2 Y2 Z2 X3 Y3 Z3 X4 Y4 Z4:ASDAS:ASDASD:IRL:IMP:ADP:ADP:ADP:ADP:EXP
+0:null:Iesire din program:Inchide aplicatia:EXT:EXT
